@@ -3,7 +3,7 @@ import pandas as pd
 import random
 
 # Title and Description
-st.title("Green Finance Optimization Platform")
+st.title("GreenFinAI - Green Finance Optimization Platform")
 st.markdown("""
 Welcome to the **Green Finance Optimization Platform**! 
 This platform evaluates, prioritizes, and optimizes green finance investments to help financial institutions make sustainable and impactful decisions.
